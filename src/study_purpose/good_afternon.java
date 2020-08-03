@@ -6,6 +6,9 @@ public class good_afternon {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Good afternoon");
+		System.out.println("Good afternoon - 3/8/2020");
+		System.out.println("Good afternoon - 3/8/2020");
+		System.out.println("Good afternoon - 3/8/2020");
 
 	}
 
